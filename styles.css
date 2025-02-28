@@ -1,0 +1,41 @@
+
+
+.AZUL{
+    background-color: blue;
+    padding: 50px     ;
+}
+
+.BRANCA{
+    background-color: white;
+    padding: 50px;
+}
+
+#AMARELAO{
+    background-color: yellow;
+    padding: 50px;
+    margin: 30px;
+    width: 160px;
+}
+
+.AMARELUDO{
+    background-color: yellow;
+    padding: 50px;
+    margin: 30px;
+    height: 320px;
+}
+
+.AMARELA{
+    background-color: yellow;
+    padding: 50px;
+    margin: 30px;
+}
+.FLEX{
+    display: flex;
+}
+
+.AMARELIN{
+    background-color: yellow;
+    padding: 50px;
+    margin: 30px;
+    height: 160px;
+}
